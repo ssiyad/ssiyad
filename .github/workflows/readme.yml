@@ -1,0 +1,10 @@
+name: Readme Fetch
+description: Generate readme with readme-fetch
+on:
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: ssiyad/readme-fetch@master
