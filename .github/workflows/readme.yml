@@ -1,6 +1,8 @@
 name: Readme Fetch
 description: Generate readme with readme-fetch
 on:
+  schedule:
+    - cron: '0 0 * * *'
   workflow_dispatch:
 jobs:
   generate:
