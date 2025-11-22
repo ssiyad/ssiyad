@@ -8,3 +8,6 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       - uses: ssiyad/readme-fetch@master
+        with:
+          git_user: ssiyad
+          git_email: hello@ssiyad.com
