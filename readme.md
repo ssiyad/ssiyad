@@ -14,6 +14,8 @@ ssiyad@baghdad
 . Email.Work:                    sabu@frappe.io
 . LinkedIn:                      ssiyad
 . GitHub:                        ssiyad
-. Telegram                       @ssiyad
-```
+. Telegram:                      @ssiyad
 
+— Stats (Last 30 days) 
+. Commits:                       152
+```
