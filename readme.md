@@ -1,7 +1,7 @@
 ```
 ssiyad@baghdad
 . OS:                            ArchLinux, MacOS
-. Uptime:                        27 years, 8 months, 7 days
+. Uptime:                        27 years, 8 months, 8 days
 . Host:                          Frappe Technologies.
 . Kernel:                        Security Engineer
 . IDE:                           Neovim
@@ -17,6 +17,6 @@ ssiyad@baghdad
 . Telegram:                      @ssiyad
 
 — Stats (Last 30 days) 
-. Commits:                       141
-. Pull Requests:                 25
+. Commits:                       143
+. Pull Requests:                 26
 ```
