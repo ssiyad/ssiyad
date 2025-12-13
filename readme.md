@@ -1,7 +1,7 @@
 ```
 ssiyad@baghdad
 . OS:                            ArchLinux, MacOS
-. Uptime:                        27 years, 8 months, 14 days
+. Uptime:                        27 years, 8 months, 15 days
 . Host:                          Frappe Technologies.
 . Kernel:                        Security Engineer
 . IDE:                           Neovim
